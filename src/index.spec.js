@@ -23,13 +23,13 @@ const runTest = config => () =>
   })
 
 export default {
-  valid: {
-    imported: { test: 1 },
+  'extra value': {
+    imported: { test2: 2 },
     mock: { test: 1 },
     result: { test: 1 },
   },
-  'extra value': {
-    imported: { test2: 2 },
+  valid: {
+    imported: { test: 1 },
     mock: { test: 1 },
     result: { test: 1 },
   },
