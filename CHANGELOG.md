@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/dword-design/proxyquire/compare/v1.0.2...v1.0.3) (2020-12-02)
+
+
+### Bug Fixes
+
+* **config:** Update changed files ([41edd00](https://github.com/dword-design/proxyquire/commit/41edd004a85b683399b013a03ceb1371cb082510))
+
 ## [1.0.2](https://github.com/dword-design/proxyquire/compare/v1.0.1...v1.0.2) (2020-08-23)
 
 
