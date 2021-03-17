@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/dword-design/proxyquire/compare/v1.0.5...v1.0.6) (2021-03-17)
+
+
+### Bug Fixes
+
+* lock file maintenance ([#8](https://github.com/dword-design/proxyquire/issues/8)) ([6c8487d](https://github.com/dword-design/proxyquire/commit/6c8487d40fae02eb124253004ab07d8d5bf9b55b))
+
 ## [1.0.5](https://github.com/dword-design/proxyquire/compare/v1.0.4...v1.0.5) (2021-03-09)
 
 
