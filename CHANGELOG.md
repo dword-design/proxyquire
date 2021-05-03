@@ -1,3 +1,19 @@
+# [2.0.0](https://github.com/dword-design/proxyquire/compare/v1.0.14...v2.0.0) (2021-05-03)
+
+
+### Bug Fixes
+
+* update dependency @dword-design/base to v8 ([#25](https://github.com/dword-design/proxyquire/issues/25)) ([95bb121](https://github.com/dword-design/proxyquire/commit/95bb12194a21cb3c18c384e0960258c59de5ba95))
+
+
+### BREAKING CHANGES
+
+* require Node.js >= 12
+
+Co-authored-by: Renovate Bot <bot@renovateapp.com>
+Co-authored-by: Sebastian Landwehr <info@dword-design.de>
+Co-authored-by: GitHub Actions <actions@github.com>
+
 ## [1.0.14](https://github.com/dword-design/proxyquire/compare/v1.0.13...v1.0.14) (2021-04-28)
 
 
