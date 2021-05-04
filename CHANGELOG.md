@@ -1,3 +1,10 @@
+## [2.0.2](https://github.com/dword-design/proxyquire/compare/v2.0.1...v2.0.2) (2021-05-04)
+
+
+### Bug Fixes
+
+* update dependency with-local-tmp-dir to v4 ([#28](https://github.com/dword-design/proxyquire/issues/28)) ([71a4480](https://github.com/dword-design/proxyquire/commit/71a4480f10d58d1cd0e3ac287c439adaf0469be0))
+
 ## [2.0.1](https://github.com/dword-design/proxyquire/compare/v2.0.0...v2.0.1) (2021-05-04)
 
 
