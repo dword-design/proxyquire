@@ -1,3 +1,10 @@
+## [2.0.3](https://github.com/dword-design/proxyquire/compare/v2.0.2...v2.0.3) (2021-05-04)
+
+
+### Bug Fixes
+
+* update dependency output-files to v2 ([#27](https://github.com/dword-design/proxyquire/issues/27)) ([f5b7792](https://github.com/dword-design/proxyquire/commit/f5b779237238a5a20c9dff09127e75a1b85d8b55))
+
 ## [2.0.2](https://github.com/dword-design/proxyquire/compare/v2.0.1...v2.0.2) (2021-05-04)
 
 
