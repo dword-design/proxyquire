@@ -1,3 +1,10 @@
+## [2.0.7](https://github.com/dword-design/proxyquire/compare/v2.0.6...v2.0.7) (2021-07-20)
+
+
+### Bug Fixes
+
+* update config files ([e9239a6](https://github.com/dword-design/proxyquire/commit/e9239a632f7e797d919e90b7a9abcd4ea1658d90))
+
 ## [2.0.6](https://github.com/dword-design/proxyquire/compare/v2.0.5...v2.0.6) (2021-07-06)
 
 
